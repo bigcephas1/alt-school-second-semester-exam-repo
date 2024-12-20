@@ -234,7 +234,16 @@ You have successfully:
     Congratulations
 
 You can now host websites or applications on this server.
+
+
 #Servers Public Ip
+
+13.48.29.211
+
+#Public IPv4 DNS
+
+ec2-13-48-29-211.eu-north-1.compute.amazonaws.com
+
 
 
 
